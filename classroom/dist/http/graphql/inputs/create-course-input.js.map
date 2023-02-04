@@ -1,0 +1,1 @@
+{"version":3,"file":"create-course-input.js","sourceRoot":"","sources":["../../../../src/http/graphql/inputs/create-course-input.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,6CAAmD;AAG5C,IAAM,iBAAiB,GAAvB,MAAM,iBAAiB;CAG7B,CAAA;AAFG;IAAC,IAAA,eAAK,GAAE;;gDACM;AAFL,iBAAiB;IAD7B,IAAA,mBAAS,GAAE;GACC,iBAAiB,CAG7B;AAHY,8CAAiB"}
